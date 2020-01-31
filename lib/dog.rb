@@ -1,6 +1,5 @@
 
 
-class dog(name)
-  
+class dog
 end 
   
