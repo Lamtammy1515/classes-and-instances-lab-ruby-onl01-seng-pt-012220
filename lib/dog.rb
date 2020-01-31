@@ -1,6 +1,7 @@
 
 
 class dog
+  @dog = dog 
 end 
 
 
